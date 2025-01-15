@@ -5,5 +5,5 @@ public class Main {
     public static double add(double a, double b) {
         return a + b;
     }
-    // testing the new command
+    // testing the new comm
 }
