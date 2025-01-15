@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // this is feat1 - test
+        // edit feat1 branch
     }
     public static double add(double a, double b) {
         return a + b;
